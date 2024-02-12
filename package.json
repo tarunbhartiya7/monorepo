@@ -1,0 +1,8 @@
+{
+  "name": "site-builder",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/backend",
+    "packages/frontend"
+  ]
+}
